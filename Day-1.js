@@ -25,3 +25,7 @@ const b = [-3, -2, 7]
 
 console.log(squaredSortedArr(a))
 console.log(squaredSortedArr(b))
+
+
+// Time complexity = O(n log n)
+// Space complexity = O(n)
